@@ -1,30 +1,15 @@
 ### Hi there 👋
 
-<!--
-**terutika0604/terutika0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<h3 align="left">My Accounts:</h3>
 <p align="left">
   <a href="https://github.com/terutika0604/terutika0604/">
     <img src="https://komarev.com/ghpvc/?username=terutika0604" alt="terutika0604" />
   </a>
-  <a href="http://twitter.com/terupro0604">
-    <img height="20" src="https://img.shields.io/twitter/follow/terupro0604?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/terutika0604">
     <img height="20" src="https://img.shields.io/github/followers/terutika0604?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://twitter.com/terupro0604">
+    <img height="20" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/terupro0604">
   </a>
 </p>
 
@@ -56,7 +41,24 @@ Here are some ideas to get you started:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Graphs:</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=terutika0604&show_icons=true&theme=dark&count_private=true" height="158px" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terutika0604&layout=compact&theme=dark&count_private=true" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&column=7"  height="151px" />
+</a>
+
+
 
